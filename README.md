@@ -1,3 +1,2 @@
-<strong>Yorkieinu is a cryptocurrency website</strong>
-
-visit <a href="yorkieinu.space">yorkieinu.space</a>
+# YorkieInu is a cryptocurrency website
+# visit www.yorkieinu.space
